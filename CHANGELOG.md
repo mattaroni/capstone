@@ -15,4 +15,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 - Made the repository public!
 
-[0.1.0]: https://github.com/mattaroni/capstone/releases/tag/v0.0.1
+[0.1.0]: https://github.com/mattaroni/capstone/releases/tag/v0.1.0
