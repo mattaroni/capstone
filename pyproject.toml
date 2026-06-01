@@ -1,7 +1,7 @@
 [project]
 name = "capstone"
 version = "0.1.0"
-description = ""
+description = "Source code for my Spring 2026 capstone project"
 authors = [
     {name = "Matthew Marshall",email = "matthewmarshall5@my.unt.edu"}
 ]
