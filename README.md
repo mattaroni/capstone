@@ -15,6 +15,11 @@ installed on your machine:
 - [Python](https://www.python.org) (3.14)
 - [Poetry](https://python-poetry.org)
 
+> [!NOTE]
+> On Linux systems, it may be necessary to run the program within a virtual
+> environment. To do this within Bash/Zsh, simply use the command
+> `$(poetry env activate)` while inside the capstone directory.
+
 ```
 git clone https://github.com/mattaroni/capstone.git
 cd capstone
